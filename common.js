@@ -1,5 +1,18 @@
-
 "use strict"
-console.log( 'Hello, world!' );
+const
+    vietNamGreeating = 'Xin chao',
+    japaneGreeting = 'Ohaiyo',
+    englandGreeting = 'Hello';
 
-let a = 12;
+function printHelloMessage() {
+    var userName = "Dung";
+}
+printHelloMessage();
+// alert(userName);
+
+if(vietNamGreeating) {
+    let newVietNamGreeting = 'Xin cheo';
+}
+
+
+// alert(newVietNamGreeting);
